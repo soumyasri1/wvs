@@ -36,3 +36,7 @@ The frontend will be accessible at http://localhost:3000.
 Directory Structure
 wevaluesoft/: Spring Boot backend code
 frontend/: React frontend code
+
+
+# FLOWCHART
+![Screenshot (268)](https://github.com/soumyasri1/wvs/assets/31533704/e90c6dbc-9a5a-481a-ac34-8c5d4cae3e1f)
