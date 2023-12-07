@@ -1,0 +1,9 @@
++-------------------+
+| User |
++-------------------+
+| id (MongoDB _id) |
+| username |
+| password |
+| roles |
+| position |
++-------------------+
